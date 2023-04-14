@@ -1,6 +1,6 @@
 # An-Android-application-for-keeping-up-with-latest-headlines
 
-https://drive.google.com/file/d/1biy-SB9S5GE9A5bIg0u6xGASDClgkZZX/view?usp=drivesdk
+Google drive demo link : https://drive.google.com/file/d/1biy-SB9S5GE9A5bIg0u6xGASDClgkZZX/view?usp=drivesdk
 
 GOOGLE DEVELOPER PROFILE PUBLIC URL
 
